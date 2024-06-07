@@ -89,3 +89,15 @@ For multi-scale(ms) test, we adopt flip and image ratios of [0.25, 0.5, 0.75, 1.
 
 ### COCO-Stuff
 For multi-scale(ms) test, we adopt flip and image ratios of [0.25, 0.5, 0.75, 1.0, 1.25, 1.5, 1.75].
+
+## Citation
+If you find it useful for your your research and applications, please cite using this BibTeX:
+```bibtex
+@inproceedings{lv2023confidence,
+  title={Confidence-Aware Contrastive Learning for Semantic Segmentation},
+  author={Lv, Lele and Liu, Qing and Kan, Shichao and Liang, Yixiong},
+  booktitle={Proceedings of the 31st ACM International Conference on Multimedia},
+  pages={5584--5593},
+  year={2023}
+}
+```
